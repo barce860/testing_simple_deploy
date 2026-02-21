@@ -26,7 +26,7 @@ function App() {
           <div className="hero-photo">
             <img src={Photo} alt="Barce" />
           </div>
-          <h1>Halo, Saya <span className="highlight">Barce</span></h1>
+          <h1>Halo, Saya <span className="highlight">Akbar Ramdani Rumasoreng</span></h1>
           <p className="hero-subtitle">Web Developer & Designer</p>
           <button className="cta-button" onClick={() => scrollTo('contact')}>
             Hubungi Saya
@@ -111,7 +111,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; 2026 Dayat. All rights reserved.</p>
+        <p>&copy; 2026 Akbar. All rights reserved.</p>
       </footer>
     </div>
   )
